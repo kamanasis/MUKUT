@@ -15,6 +15,15 @@
 
 ---
 
+## Hardware Gallery
+
+| MUKUT System Overview | Node Close-up |
+| :---: | :---: |
+| ![Picture 1](pictures/0cb5d83d-035b-4ab2-889d-ad7e49fe7800.jpg) | ![Picture 2](pictures/3ce03701-3198-4c3d-ad07-a3eb5c00986b.jpg) |
+| ![Picture 3](pictures/687d540f-1751-4d7d-a39b-84c690e7296a.jpg) | ![Picture 4](pictures/94ca7159-2cde-46d2-b195-f6df61b89ed6.jpg) |
+
+---
+
 ## What Is MUKUT?
 
 MUKUT Smart Coal Miner Helmet is an intelligent IoT-based wearable safety platform for underground coal mines where GPS and internet are completely unavailable.
@@ -435,16 +444,6 @@ npm install
 npm run dev
 # Open http://localhost:5173
 ```
----
-
-## Hardware Gallery
-
-| MUKUT System Overview | Node Close-up |
-| :---: | :---: |
-| ![Picture 1](pictures/0cb5d83d-035b-4ab2-889d-ad7e49fe7800.jpg) | ![Picture 2](pictures/3ce03701-3198-4c3d-ad07-a3eb5c00986b.jpg) |
-| ![Picture 3](pictures/687d540f-1751-4d7d-a39b-84c690e7296a.jpg) | ![Picture 4](pictures/94ca7159-2cde-46d2-b195-f6df61b89ed6.jpg) |
-
----
 
 ## License
 
