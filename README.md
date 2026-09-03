@@ -457,3 +457,11 @@ MIT License
 >
 > Built with ESP32, LoRa 433MHz, React, Node.js, MongoDB, and Socket.IO.
 > When GPS fails and Wi-Fi dies — MUKUT still works.
+
+## Dashboard Gallery
+
+| Analytics | Signal Panel |
+| :---: | :---: |
+| <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.36.jpeg' width='400'/> | <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.37%20(1).jpeg' width='400'/> |
+| <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.37.jpeg' width='400'/> | <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.38.jpeg' width='400'/> |
+| <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.39%20(1).jpeg' width='400'/> | <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.39.jpeg' width='400'/> |
