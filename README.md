@@ -1,6 +1,4 @@
-# MUKUT Smart Coal Miner Helmet
-
-**Underground Safety Intelligence Platform**
+# MUKUT -- Intelligent Connected-Worker Safety & Emergency Response System
 
 > Protecting every miner in real time through LoRa Mesh communication, hazard detection, and live telemetry monitoring. Built for environments where GPS and internet do not exist.
 
