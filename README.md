@@ -18,7 +18,18 @@
 ## Hardware Gallery
 
 | MUKUT System Overview | Node Close-up |
+| :---
+
+## Dashboard Gallery
+
+| Analytics | Signal Panel |
 | :---: | :---: |
+| ![Analytics 1](Dashboard_gallery/dash_1.jpeg) | ![Signal 1](Dashboard_gallery/dash_2.jpeg) |
+| ![Analytics 2](Dashboard_gallery/dash_3.jpeg) | ![Signal 2](Dashboard_gallery/dash_4.jpeg) |
+| ![Analytics 3](Dashboard_gallery/dash_5.jpeg) | ![Signal 3](Dashboard_gallery/dash_6.jpeg) |
+
+---
+: | :---: |
 | ![Picture 1](pictures/0cb5d83d-035b-4ab2-889d-ad7e49fe7800.jpg) | ![Picture 2](pictures/3ce03701-3198-4c3d-ad07-a3eb5c00986b.jpg) |
 | ![Picture 3](pictures/687d540f-1751-4d7d-a39b-84c690e7296a.jpg) | ![Picture 4](pictures/94ca7159-2cde-46d2-b195-f6df61b89ed6.jpg) |
 
@@ -446,7 +457,6 @@ npm run dev
 ```
 
 ## License
-
 MIT License
 
 ---
@@ -457,11 +467,3 @@ MIT License
 >
 > Built with ESP32, LoRa 433MHz, React, Node.js, MongoDB, and Socket.IO.
 > When GPS fails and Wi-Fi dies — MUKUT still works.
-
-## Dashboard Gallery
-
-| Analytics | Signal Panel |
-| :---: | :---: |
-| <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.36.jpeg' width='400'/> | <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.37%20(1).jpeg' width='400'/> |
-| <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.37.jpeg' width='400'/> | <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.38.jpeg' width='400'/> |
-| <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.39%20(1).jpeg' width='400'/> | <img src='Dashboard%20gallery/WhatsApp%20Image%202026-09-03%20at%2018.48.39.jpeg' width='400'/> |
